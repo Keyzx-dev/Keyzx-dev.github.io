@@ -28,9 +28,9 @@ header {
     position: fixed;
     top: 0;
     right: 0;
-    width: 100%;
+    width: 50%;
     z-index: 1000;
-    padding: 30px 12%;
+    padding: 50px 12%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -42,7 +42,7 @@ header {
 }
 
 .nav-links a {
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 600;
     color: var(--text-color);
     margin: 0 30px;
@@ -54,7 +54,7 @@ header {
 }
 
 .logo img {
-    width: 110px;
+    width: 120px;
     height: auto;
 }
 
@@ -64,7 +64,7 @@ header {
 }
 
 .h-right a {
-    margin-right: 30px;
+    margin-right: 50px;
     font-size: 25px;
     color: var(--main-color);
 }
@@ -75,7 +75,7 @@ header {
 }
 
 #menu-icon {
-    font-size: 37px;
+    font-size: 40px;
     color: var(--main-color);
     cursor: pointer;
     display: none;
@@ -98,7 +98,7 @@ section {
 }
 
 .home-img img {
-    width: 500px;
+    width: 600px;
     height: auto;
 }
 
